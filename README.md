@@ -1,2 +1,2 @@
 # Atm_management
-Atm management system
+Implemented an interactive automated banking system using Python, offering a user-friendly experience for account management. The system allows users to enter a secure PIN, access account information, make deposits, and withdraw funds. It includes error handling for incorrect PIN entries and provides real-time balance updates. This project demonstrates proficiency in Python programming, user input validation, and basic banking operations.
